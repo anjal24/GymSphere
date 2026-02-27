@@ -7,9 +7,9 @@
 
 .about-wrapper {
   display: flex;
-  align-items: center; /* Image aur text ko vertical center karega */
+  align-items: center; 
   gap: 50px;
-  flex-wrap: wrap; /* Mobile responsive banane ke liye */
+  flex-wrap: wrap; 
 }
 
 .left-content, .right-content {
