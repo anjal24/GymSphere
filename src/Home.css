@@ -81,8 +81,8 @@
 .card-bg-img {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* Image poore card mein set hogi */
-  filter: brightness(0.7); /* Image thodi dark taaki text dikhe */
+  object-fit: cover; 
+  filter: brightness(0.7); 
   transition: filter 0.3s;
 }
 
@@ -112,10 +112,10 @@
   color: #d7fd05;
   font-size: 0.8rem;
   font-weight: bold;
-  opacity: 0; /* Shuru mein hidden rahega */
+  opacity: 0; 
   transition: opacity 0.3s;
 }
 
 .image-card:hover .explore-text {
-  opacity: 1; /* Hover par "Explore" dikhega */
+  opacity: 1; 
 }
